@@ -1,0 +1,5 @@
+C:\Users\Fedor\source\repos\For\For\obj\Debug\For.csprojAssemblyReference.cache
+C:\Users\Fedor\source\repos\For\For\obj\Debug\MainWindow.g.cs
+C:\Users\Fedor\source\repos\For\For\obj\Debug\App.g.cs
+C:\Users\Fedor\source\repos\For\For\obj\Debug\For_MarkupCompile.cache
+C:\Users\Fedor\source\repos\For\For\obj\Debug\For_MarkupCompile.lref

@@ -1,0 +1,2 @@
+C:\Users\Fedor\source\repos\while\while\obj\Debug\while.csprojAssemblyReference.cache
+C:\Users\Fedor\source\repos\while\while\obj\Debug\@while_MarkupCompile.cache
